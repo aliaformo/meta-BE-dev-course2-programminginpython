@@ -12,6 +12,6 @@ Repository for my assignments and study for the Course 2: Programming in Python 
 |Week 2 |Basic Programming with Python|[Link](https://github.com/aliaformo/meta-BE-dev-course2-programminginpython/tree/Week2)|
 |Week 3|Programming Paradigms|[Link]()|
 |Week 4| Modules, packages, libraries and tools|[Link]()|
-|Week 5| End of Course|[Link]()|
+|Week 5| End of Course|[Link](https://github.com/aliaformo/meta-BE-dev-course2-programminginpython/tree/Week5)|
 
 ### <div align="center"> ⚙️ Work in progress... 🛠️ </div>
