@@ -3,4 +3,4 @@
 
 Week 3: Programming Paradigms
 
-### <div align="center"> ⚙️ Work in progress... 🛠️ </div>
+
