@@ -3,5 +3,3 @@
 
 Week 4: Modules, packages, libraries and tools
 
-
-### <div align="center"> ⚙️ Work in progress... 🛠️ </div>
